@@ -2,6 +2,13 @@
 
 Flutter news app, that show cases the following: SQflite,HTTP operations, caching responses, user preferences, clean architecture and tests.
 
+## Todo
+- Decide on the state management
+- Research on a news app design from (dribbble, uplabs .. etc)
+- Add HTTP layer
+- Add DB layer
+- Finally add test
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
