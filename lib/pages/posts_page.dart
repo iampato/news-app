@@ -1,9 +1,7 @@
-
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:sqlite_clean/cubit/post_cubit/post_cubit.dart';
 import 'package:sqlite_clean/model/post_model.dart';
-
 
 class PostPage extends StatefulWidget {
   const PostPage({

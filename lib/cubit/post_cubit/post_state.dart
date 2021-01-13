@@ -1,7 +1,7 @@
 part of 'post_cubit.dart';
 
 @immutable
-abstract class PostState{
+abstract class PostState {
   const PostState();
 }
 
@@ -12,12 +12,10 @@ class PostLoaded extends PostState {
   final String message;
 
   PostLoaded({this.articles, this.message});
-
 }
 
 class PostError extends PostState {
   final String message;
 
   PostError(this.message);
-
 }

@@ -20,7 +20,7 @@ class SavedPosts extends StatelessWidget {
           if (_articles.isEmpty) {
             return Center(child: Text("No data"));
           }
-          return buildListView(_articles);  
+          return buildListView(_articles);
         }
 
         return Container();
@@ -100,7 +100,6 @@ class SavedPosts extends StatelessWidget {
                                 ),
                                 onPressed: () {},
                               ),
-                              
                             ],
                           ),
                         )
@@ -115,5 +114,4 @@ class SavedPosts extends StatelessWidget {
       },
     );
   }
-
 }
