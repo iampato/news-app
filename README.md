@@ -1,6 +1,6 @@
-# sqlite_clean
+# Flutter News app
 
-A new Flutter project.
+Flutter news app, that show cases the following: SQflite,HTTP operations, caching responses, user preferences, clean architecture and tests.
 
 ## Getting Started
 
