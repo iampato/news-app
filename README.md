@@ -3,6 +3,9 @@
 Flutter news app, that show cases the following: SQflite,HTTP operations, caching responses, user preferences, clean architecture and tests.
 ## Tech-stack
  * [Flutter](https://flutter.dev) -is a mobile cross-platform,UI toolkit.
+ * [Cubit](https://pub.dev/documentation/flutter_cubit/latest/) - The Cubit is a subset of the famous implementation of BLoC Pattern: bloclibrary.dev, it abandons            the concept of Events and simplifies the way of emitting states.
+ * [Shared preferences](https://pub.dev/packages/shared_preferences) - for storing key based values.
+ * [sqflite](https://pub.dev/packages/sqflite) -sqlite db plugin for android, ios and macos.
  
 ## Todo
 - ~Decide on the state management~ : [flutter_cubit](https://pub.dev/documentation/flutter_cubit/latest/)
