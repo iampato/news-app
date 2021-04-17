@@ -9,9 +9,9 @@ Flutter news app, that show cases the following: SQflite,HTTP operations, cachin
  
 ## Todo
 - ~Decide on the state management~ : [flutter_cubit](https://pub.dev/documentation/flutter_cubit/latest/)
-- Research on a news app design from (dribbble, uplabs .. etc)
-- Add HTTP layer
-- Add DB layer
+- ~Research on a news app design from (dribbble, uplabs .. etc)~
+- ~Add HTTP layer~
+- ~Add DB layer~
 - Finally add test
 
 ## Architecture
